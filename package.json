@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "test primevue",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -11,7 +11,10 @@
   },
   "dependencies": {
     "@astrojs/starlight": "^0.32.2",
+    "@astrojs/vue": "^5.0.7",
+    "@primeuix/themes": "^1.0.0",
     "astro": "^5.1.5",
+    "primevue": "^4.3.1",
     "sharp": "^0.32.5"
   }
 }
