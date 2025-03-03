@@ -1,3 +1,3 @@
 <template>
-  <Button label="Primary">Test primevue</Button>
+  <Button severity="success">Test primevue</Button>
 </template>
