@@ -1,3 +1,3 @@
 <template>
-  <Button>Test primevue</Button>
+  <Button label="Primary">Test primevue</Button>
 </template>
